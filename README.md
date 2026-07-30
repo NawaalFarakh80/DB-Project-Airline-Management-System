@@ -35,7 +35,7 @@ Generates operational alerts for airline staff during emergencies. Ensures timel
 - CRUD Operations
 - SQL Joins 
 # Project Author:
-- "Nawaal Farakh" 
+- **"Nawaal Farakh"**
 - University of Lahore 
 - Database Systems Project 
 – Spring 2026
