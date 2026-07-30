@@ -1,5 +1,5 @@
-# Main Project Description:
-## AirForce Management System Project Overview:
+# AirForce Management System Project
+## Overview:
 The AirForce Management System is a database-driven solution designed to manage airline operations during normal and crisis situations. The system helps airline staff manage flights, aircraft, pilots, passengers, baggage, disruptions, and operational alerts efficiently. 
 # "Features"
 ## 1. Flight Management Description:
