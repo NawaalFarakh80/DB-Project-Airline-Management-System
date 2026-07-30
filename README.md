@@ -1,5 +1,6 @@
 # "Main Project Description":
-AirForce Management System Project Overview The AirForce Management System is a database-driven solution designed to manage airline operations during normal and crisis situations. The system helps airline staff manage flights, aircraft, pilots, passengers, baggage, disruptions, and operational alerts efficiently. 
+## AirForce Management System Project Overview:
+The AirForce Management System is a database-driven solution designed to manage airline operations during normal and crisis situations. The system helps airline staff manage flights, aircraft, pilots, passengers, baggage, disruptions, and operational alerts efficiently. 
 # "Features"
 ## 1. Flight Management Description:
 Allows airline staff to create, update, and monitor flight schedules. Tracks flight status such as Scheduled, Delayed, Cancelled, or Completed.
@@ -22,9 +23,17 @@ Tracks baggage movement from check-in to arrival. Identifies misdirected baggage
 ## 10. Alert & Notification System Description: 
 Generates operational alerts for airline staff during emergencies. Ensures timely communication and quick response to incidents. 
 # "Technologies Used":
-• PostgreSQL • SQL • pgAdmin 4 
+- PostgreSQL
+- SQL
+- pgAdmin 4 
 # "Database Concepts Used": 
-• Primary Keys • Foreign Keys • One-to-Many Relationships • Many-to-Many Relationships • Data Integrity Constraints • CRUD Operations • SQL Joins 
+- Primary Keys
+- Foreign Keys
+- One-to-Many Relationships
+- Many-to-Many Relationships
+- Data Integrity Constraints
+- CRUD Operations
+- SQL Joins 
 # "Project Author":
 - "Nawaal Farakh" 
 - University of Lahore 
